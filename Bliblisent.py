@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-url = 'https://oapi.dingtalk.com/robot/send?access_token=1c965502f344ee770a74099bde75c7b8a25283da185cb33f868191c900269b1a'
+url = 'https://oapi.dingtalk.com/robot/send?access_token=271946d6a91acda58f31ee37fc7d75f9d7d5c2f3e9ac77cf729cfd2034fdf0f9'
 # 半佛，朱一旦，大骚,罗翔说刑法,毕导THU,何同学
 bili_ids = ['37663924','437316738','390461123','517327498','254463269','163637592','254463269']
 yesterday = time.time()-60*60*24*2  # 3天前
